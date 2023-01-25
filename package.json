@@ -1,0 +1,23 @@
+{
+  "name": "WikiProyectosMISO",
+  "version": "1.0.0",
+  "description": "",
+  "main": "update.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MISW-4104-Web/202110_Equipo6.wiki.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MISW-4104-Web/202110_Equipo6.wiki/issues"
+  },
+  "homepage": "https://github.com/MISW-4104-Web/202110_Equipo6.wiki#readme",
+  "dependencies": {
+    "exec-sh": "^0.3.4"
+  }
+}
