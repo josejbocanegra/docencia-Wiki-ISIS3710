@@ -1,4 +1,4 @@
-# MISW4403 - Wiki
+# ISIS3710 - Wiki
 
 En esta wiki se deberán referenciar las evidencias del trabajo semanal del equipo. Para esto puede crear un título de tercer nivel (con ###) en la semana correspondiente y enlazar la información solicitada en las actividades de esa semana.
 
